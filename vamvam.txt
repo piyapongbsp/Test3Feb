@@ -12,7 +12,3 @@ fdfsh
 fhfsh
 
 fdhsf
-
-
-
->>>>>>> master
